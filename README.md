@@ -428,7 +428,7 @@ Results/dashboard_analysis.csv
 ### 1. Clone the Repository
 
 ```bash
-git clone <(https://github.com/srushtidhotre/Smart-Traffic-Management-System>
+git clone <https://github.com/srushtidhotre/Smart-Traffic-Management-System>
 ```
 
 Navigate to the project directory:
