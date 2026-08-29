@@ -571,7 +571,6 @@ Wrong-way vehicle:
 
 ```text
 ID 7 | car | L1 | 25.4 km/h | WRONG WAY
-```
 
 When a violation is detected, the vehicle is highlighted on the video.
 Violations can also be exported using the dashboard's download option.
