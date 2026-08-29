@@ -1,1 +1,38 @@
+# Virtual environments
+.venv/
+venv/
+env/
 
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environment files
+.env
+.env.*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Large model files
+*.pt
+*.onnx
+*.engine
+
+# Dataset
+Dataset/
+
+# Generated results
+Results/
+
+# IDE
+.vscode/
+.idea/
+
+# Temporary files
+*.tmp
+*.log
