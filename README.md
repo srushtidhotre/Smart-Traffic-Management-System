@@ -53,43 +53,43 @@ The main objectives of this project are:
 The system follows the workflow below:
 
 ```text
-                    Traffic Video
+                   Traffic Video
                          │
                          ▼
-                Vehicle Detection
+                 Vehicle Detection
                          │
                          ▼
-                   YOLO Model
+                    YOLO Model
                          │
                          ▼
-                  ByteTrack
-                Vehicle Tracking
+                     ByteTrack
+                  Vehicle Tracking
                          │
             ┌────────────┼────────────┐
             │            │            │
             ▼            ▼            ▼
-       Lane Analysis  Speed       Vehicle
-                      Analysis     Positions
+          Lane         Speed       Vehicle
+        Analysis      Analysis    Positions
             │            │            │
             └────────────┼────────────┘
                          ▼
-                Traffic Analytics
+                 Traffic Analytics
                          │
               ┌──────────┼──────────┐
               │          │          │
               ▼          ▼          ▼
            Density     Queue    Congestion
-           Analysis   Estimation   Score
+          Analysis   Estimation   Score
               │          │          │
               └──────────┼──────────┘
                          ▼
               Adaptive Signal Control
                          │
                          ▼
-               Violation Detection
+                Violation Detection
                          │
                          ▼
-               Streamlit Dashboard
+                Streamlit Dashboard
                          │
                          ▼
                 Analytics & Reports
