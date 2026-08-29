@@ -428,8 +428,7 @@ Results/dashboard_analysis.csv
 ### 1. Clone the Repository
 
 ```bash
-git clone <[YOUR_GITHUB_REPOSITORY_UR](https://github.com/srushtidhotre/Smart-Traffic-Management-System/blob)>
-git clone <>
+git clone <(https://github.com/srushtidhotre/Smart-Traffic-Management-System>
 ```
 
 Navigate to the project directory:
