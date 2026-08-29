@@ -178,7 +178,7 @@ Example:
 ```text
 Vehicle → ID 1
 Vehicle → ID 2
-Vehicle → ID
+Vehicle → ID 3
 ```
 
 This allows the system to monitor individual vehicles as they move through the traffic scene.
